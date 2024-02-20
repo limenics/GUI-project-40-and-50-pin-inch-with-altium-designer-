@@ -1,0 +1,1 @@
+# GUI-project-40-and-50-pin-inch-with-altium-designer-
