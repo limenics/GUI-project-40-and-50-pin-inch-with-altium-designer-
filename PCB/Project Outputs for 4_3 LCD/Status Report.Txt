@@ -1,0 +1,32 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [4_3 LCD.PrjPcb]
+   Generated File[LCD_Copper_Signal_Top.gbr]
+   Generated File[LCD_Copper_Signal_1.gbr]
+   Generated File[LCD_Copper_Signal_2.gbr]
+   Generated File[LCD_Copper_Signal_Bot.gbr]
+   Generated File[LCD_Pads_Bot.gbr]
+   Generated File[LCD_Pads_Top.gbr]
+   Generated File[LCD_Legend_Top.gbr]
+   Generated File[LCD_Legend_Bot.gbr]
+   Generated File[LCD_Soldermask_Top.gbr]
+   Generated File[LCD_Soldermask_Bot.gbr]
+   Generated File[LCD_Paste_Top.gbr]
+   Generated File[LCD_Paste_Bot.gbr]
+   Generated File[LCD_Keep-out.gbr]
+   Generated File[LCD_Mechanical_1.gbr]
+   Generated File[LCD_Mechanical_13.gbr]
+   Generated File[LCD_Mechanical_15.gbr]
+   Generated File[LCD_Profile.gbr]
+   Generated File[LCD_NPTH_Drill.gbr]
+   Generated File[LCD_PTH_Drill.gbr]
+   Generated File[LCD_Drawing_1.gbr]
+   Generated File[LCD_Drillmap_1.gbr]
+   Generated File[LCD.EXTREP]
+   Generated File[LCD.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 9:45:49 AM On 2/20/2024
